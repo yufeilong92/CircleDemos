@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\old_Project\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\focus_area_focus_qupai_start.xml",
+        "source": "D:\\old_Project\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\focus_area_focus_qupai_start.xml"
+    },
+    {
+        "merged": "D:\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\focus_area_focus_qupai_start.xml",
+        "source": "D:\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\focus_area_focus_qupai_start.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\qupai_self_timer_countdown.xml",
+        "source": "D:\\old_Project\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\qupai_self_timer_countdown.xml"
+    },
+    {
+        "merged": "D:\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\qupai_self_timer_countdown.xml",
+        "source": "D:\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\qupai_self_timer_countdown.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\focus_area_focus_qupai_stop.xml",
+        "source": "D:\\old_Project\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\focus_area_focus_qupai_stop.xml"
+    },
+    {
+        "merged": "D:\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\res\\merged\\debug\\animator\\focus_area_focus_qupai_stop.xml",
+        "source": "D:\\phonePicker\\CircleDemo-master\\CircleDemo\\app\\build\\intermediates\\exploded-aar\\Qupaisdk-release\\res\\animator\\focus_area_focus_qupai_stop.xml"
+    }
+]
